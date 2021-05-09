@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/HomePage/HomePage.module.css"],"names":[],"mappings":"AAAA,0BACI,iBACJ,CAEA,wDAEI,SACJ","file":"9.7a6911d3.chunk.css","sourcesContent":[".HomePage{\r\n    padding-left: 25px;\r\n}\r\n\r\n.Fims:hover,\r\n.Film:focus {\r\n    color: red;\r\n}"]}

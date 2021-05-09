@@ -1,0 +1,36 @@
+.btnBack {
+  display: block;
+  margin-bottom: 5px;
+  cursor: pointer;
+  border-color: #f0f0f0;
+}
+
+.mainPart {
+  display: flex;
+}
+
+.poster {
+  margin-right: 20px;
+}
+
+.score {
+  font-weight: 600;
+}
+
+ul {
+  padding-inline-start: 0px;
+}
+
+h4 {
+  margin: 0px;
+}
+
+.additional {
+  display: flex;
+  flex-direction: column;
+  height: 100px;
+  margin-top: 10px;
+  padding-left: 15px;
+  border-top: 2px solid grey;
+  border-bottom: 2px solid grey;
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/SearchBar/SearchBar.module.css","webpack://src/components/MovieList/MovieList.module.css"],"names":[],"mappings":"AAAA,wBACI,WACJ,CCFA,sCACE,iBACF","file":"5.62c03206.chunk.css","sourcesContent":[".input{\r\n    width: 350px;\r\n}",".moviesPageContainer {\r\n  padding-left: 25px;\r\n}\r\n"]}

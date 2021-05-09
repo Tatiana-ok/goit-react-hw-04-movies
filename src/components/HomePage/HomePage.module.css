@@ -1,0 +1,8 @@
+.HomePage {
+  padding-left: 25px;
+}
+
+.Fims:hover,
+.Film:focus {
+  color: red;
+}
